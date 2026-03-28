@@ -1,9 +1,9 @@
 {
   "name": "@todo-requirement-blueprint/domain",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TypeScript domain models for TODO Requirement Blueprint (TRB).",
   "bugs": "https://github.com/leoweyr/todo-requirement-blueprint-domain/issues",
-  "type": "module",
+  "type": "commonjs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
