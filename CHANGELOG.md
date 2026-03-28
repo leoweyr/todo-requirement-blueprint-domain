@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.1](https://github.com/leoweyr/todo-requirement-blueprint-domain/compare/v1.0.0...v1.0.1) (2026-03-28)
+### Documentation
+
+* add a link to the TRB specification source ([d12fe9a](https://github.com/leoweyr/todo-requirement-blueprint-domain/commit/d12fe9a4938b21d63794f82a1fd08f6a451ce7a9)) [@leoweyr](https://github.com/leoweyr)
+
+
+
 # [1.0.0] (2026-03-28)
 ### Features
 
