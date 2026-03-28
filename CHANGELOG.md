@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.0.2](https://github.com/leoweyr/todo-requirement-blueprint-domain/compare/v1.0.1...v1.0.2) (2026-03-28)
+### DevOps
+
+* set package type to commonjs ([f1c465a](https://github.com/leoweyr/todo-requirement-blueprint-domain/commit/f1c465a9d9dbfc55eb1955c9f3d1e1497b43c4b2)) [@leoweyr](https://github.com/leoweyr)
+
+
+
 # [1.0.1](https://github.com/leoweyr/todo-requirement-blueprint-domain/compare/v1.0.0...v1.0.1) (2026-03-28)
 ### Documentation
 
