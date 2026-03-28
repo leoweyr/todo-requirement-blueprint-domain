@@ -1,0 +1,46 @@
+{
+  "name": "@todo-requirement-blueprint/domain",
+  "version": "0.0.0",
+  "description": "TypeScript domain models for TODO Requirement Blueprint (TRB).",
+  "bugs": "https://github.com/leoweyr/todo-requirement-blueprint-domain/issues",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "clean": "rimraf dist",
+    "compile": "tsc",
+    "build": "npm run clean && npm run compile",
+    "package": "npm run build && npm pack",
+    "deploy": "npm run package && npm publish --access=public"
+  },
+  "keywords": [
+    "trb",
+    "todo-requirement-blueprint",
+    "domain-model",
+    "typescript",
+    "ddd",
+    "domain-driven-desgin",
+    "architecture-as-code",
+    "demand-pull",
+    "roadmap",
+    "wardley-maps",
+    "gitops",
+    "strategic-planning",
+    "graph-data",
+    "indie-hacker",
+    "solopreneur"
+  ],
+  "author": "leoweyr <contact@leoweyr.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rimraf": "^6.0.1",
+    "typescript": "^5.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leoweyr/todo-requirement-blueprint-domain.git"
+  }
+}
